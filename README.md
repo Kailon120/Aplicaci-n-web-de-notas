@@ -13,7 +13,7 @@
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+git clone https://github.com/Kailon120/Aplicaci-n-web-de-notas.git
 ```
 
 2. Abre el archivo index.html en tu navegador.
